@@ -1,2 +1,2 @@
 # webPractice
-a repo for following along the web learning resources
+a repo for following along the web learning resources.
